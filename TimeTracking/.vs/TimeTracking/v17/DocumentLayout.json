@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEDCF67-B16D-4DE2-9057-D828FBCAF241}|TimeTracking.App\\TimeTracking.App.csproj|C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\timetracking.app\\timetrackingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEDCF67-B16D-4DE2-9057-D828FBCAF241}|TimeTracking.App\\TimeTracking.App.csproj|solutionrelative:timetracking.app\\timetrackingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8CF54-4ED9-4247-BCDE-E1597B126AAB}|TimeTracking.Services\\TimeTracking.Services.csproj|C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\timetracking.services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8CF54-4ED9-4247-BCDE-E1597B126AAB}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4395BC-6305-4DC2-91C3-86C38A6BE006}|TimeTracking.Helpers\\TimeTracking.Helpers.csproj|C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\timetracking.helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4395BC-6305-4DC2-91C3-86C38A6BE006}|TimeTracking.Helpers\\TimeTracking.Helpers.csproj|solutionrelative:timetracking.helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8CF54-4ED9-4247-BCDE-E1597B126AAB}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\admin\\desktop\\homeworks\\csharp-advancedhw\\csharp-advanced\\timemanagement-homework\\timetracking\\timetracking.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8CF54-4ED9-4247-BCDE-E1597B126AAB}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8CF54-4ED9-4247-BCDE-E1597B126AAB}|TimeTracking.Services\\TimeTracking.Services.csproj|C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\timetracking.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8CF54-4ED9-4247-BCDE-E1597B126AAB}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Services\\ServiceBase.cs",
+              "RelativeToolTip": "TimeTracking.Services\\ServiceBase.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:02:23.371Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Services\\UIService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\UIService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Services\\UIService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\UIService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:48:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "TimeTracking.Helpers\\ValidationHelper.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAH0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:29:08.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.Services\\UserService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:06:48.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeTrackingUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.App\\TimeTrackingUI.cs",
+              "RelativeDocumentMoniker": "TimeTracking.App\\TimeTrackingUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Homeworks\\CSharp-AdvancedHW\\CSharp-Advanced\\TimeManagement-HOMEWORK\\TimeTracking\\TimeTracking.App\\TimeTrackingUI.cs",
+              "RelativeToolTip": "TimeTracking.App\\TimeTrackingUI.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:31:37.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
